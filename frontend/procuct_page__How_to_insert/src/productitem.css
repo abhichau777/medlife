@@ -1,0 +1,52 @@
+.product{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    
+  }
+  .imageperfume{
+    width: 28em;
+    height: 29em;
+  }
+  .Productimg{
+    
+    width: 63px;
+    height: 60px;
+    padding: 34px;
+    margin: 5px;
+  }
+  .Productimg ul {
+    list-style: none;
+    padding: 10px;
+  }
+  .Productimg ul li{
+    
+    padding: 10px;
+    
+  }
+  .Productimg ul li div{
+    border-radius: 40px;
+    width: 68px;
+    height: 68px;
+    
+    top: 194px;
+    left: 45px;
+    padding: 10px; 
+  }
+  .maybelineimg{
+   position: absolute;
+    top: 99px;
+    left: 66px;
+  }
+  .bottomimages{
+    position: relative;
+    top: 550px;
+    left: 170px;
+  }
+  .bottomimage{
+    padding: 10px;
+  }
+  
+  
+  
+  

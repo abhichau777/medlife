@@ -1,0 +1,106 @@
+.productprice{
+height: 42.09rem;
+width: 22rem;
+border: 1px solid #D9D9D9;
+float: left;
+margin-left: 4rem;
+margin-top: 2rem;
+font-family: Lato;
+letter-spacing: 0.01em; 
+}
+.ruppes{
+font-size: 24px;
+font-weight: 400; 
+line-height: 29px;
+text-align: left;
+
+}
+.checkoutprice{   
+font-size: 64px;
+font-weight: 400;
+line-height: 77px;
+text-align: left;  
+}
+.productprice div:nth-child(1){
+    padding: 1rem;
+}
+.productprice div:nth-child(2){
+    padding: 1rem;
+    
+font-size: 21px;
+font-weight: 400;
+line-height: 29px;
+text-align: left;
+
+}
+.productprice div:nth-child(3){
+    padding: 1rem;
+    
+font-size: 21px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+letter-spacing: 0.02em; 
+
+}
+.productprice div:nth-child(4){
+    padding: 2.5rem;
+    
+font-size: 32px;
+font-weight: 600;
+line-height: 28.8px;
+color:  #40B44C;
+
+}
+.productprice div:nth-child(5){
+    padding: 2.5rem;
+    
+font-size: 24px;
+font-weight: 600;
+line-height: 28.8px;
+
+}
+.productprice div:nth-child(5) span:nth-child(2){
+    
+    width: 3px;
+    height: 2rem;
+}
+.productprice div:nth-child(5) span:nth-child(2) div{
+    border: 1px solid black;
+} 
+
+.productprice div:nth-child(5) span:nth-child(2) input{
+width:3.5rem;
+border-style: hidden;
+height:3.5rem ;
+margin-left: 2px;
+background-color: #F5F5F5;
+}
+.productprice div:nth-child(5) span:nth-child(2) button{
+    border-style: hidden;
+}
+.productprice div:nth-child(6) {
+padding: 1.5rem;
+
+
+}
+.productprice div:nth-child(6) button:nth-child(1){
+width: 273px;
+height: 54px;
+background-color: #FFD814;
+border-radius: 54px;
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+margin-bottom: 20px;
+}
+.productprice div:nth-child(6) button:nth-child(2){
+width: 273px;
+height: 54px;
+background-color: #FFA41C;
+border-radius: 54px;
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+margin-bottom: 20px;
+}

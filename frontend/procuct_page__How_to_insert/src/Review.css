@@ -1,0 +1,38 @@
+.container{
+    padding: 1% 4%;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 60px;
+}
+.card{
+    padding: 1.5% 2%;
+    display: flex;
+    width:500px;
+    height: 180px;
+    font-style: medium;
+    font-size: 13px;
+    line-height: 25px;
+    line-height: 125%;
+    justify-content: center;
+}
+.txt{
+    padding-left: 2%;
+    padding-top: 1%;
+    font-weight: 600;
+    
+}
+img{
+    width:122px;
+    height: 122px;
+}
+.cards{
+    box-sizing: content-box;
+    padding: 2% 2%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
